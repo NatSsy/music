@@ -1,0 +1,20 @@
+.container-fluid nav ul li a {
+    color: white;
+  }
+
+
+.fondo-carrousel1{
+  background-color: black;
+  color: aliceblue;
+  width: 220px;
+  border-radius: 50px 80px;
+  opacity: 80%;
+}
+
+.fondo-carrousel2{
+  background-color: black;
+  color: aliceblue;
+  width: 470px;
+  border-radius: 50px 80px;
+  opacity: 80%;
+}
